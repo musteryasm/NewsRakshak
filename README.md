@@ -1,1 +1,2 @@
-# NewsRakshak
+# news_rakshak
+SIH prototype hosting
